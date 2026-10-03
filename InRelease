@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: aarch64
+Date: Sat, 03 Oct 2026 23:05:26 +0000
+Label: Codex Termux
+Origin: Codex Termux Community
+MD5Sum:
+ 94a2bb2454672423a39bdad4400468ee              798 Packages
+ 7f29b460c0996b3231e867dde59ddf46              561 Packages.gz
+ ef9feea0452ab5e1930c649de76f6ec4              112 Release
+SHA1:
+ 0195ba9d37cb97cb30dd52c372c6294ebfc8eb60              798 Packages
+ fb66dcdfc2f3c9a3d168f803bce8ef1b97d0d535              561 Packages.gz
+ 5bf8e9f0dc94222a2a2495a793175542ff0659aa              112 Release
+SHA256:
+ c93898456efb4c1077eaae4fd041aa325f0e7869fa60937ef5e3a352f194d068              798 Packages
+ 2c71fd8e147e53a6606decc6d71d550dffbbe8b9c45c146254454ea3f2edd2c3              561 Packages.gz
+ b335f26d9562a62b6bde944edc699464fe10c0c890825ea68a8041345ab18556              112 Release
+SHA512:
+ 5835e269a9a7c0313062c18b260e24046efdb053a096620e7100db6fb8f5d2e1d0f2fb65b4d4d6caa515030c3ac06ea6b5ecf284de4f44b6f43d599aa30fa263              798 Packages
+ 9b7c392295cfa736bb59ca96d01ae01c93627979c80821c4bf2359d709e58ff247550512a1f00e44710cc51fb434c68d40e4146d07a7df6f1bcbcbc1076c1747              561 Packages.gz
+ 535164d2e69b8892bfe0f6e0d69bc2848ccc26ba341ea72f7036a2cfccd27fc2e8255eb5c58006e72988ae8e91d70aa81a8802a1d6d4f50061b8dcb97acd7fe1              112 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQSiSQlt/ehtpahPfnCNTkFgg4L2SgUCasGKNgAKCRCNTkFgg4L2
+SqXVAQD/wXYIUxC3UnVXmBls4A12BcCEr9U+Lnm1H7/FB3vynQD+NihgRbUrNv56
+IjndQYzhW7Q/TrBh5rlz7vi4UmMEYg0=
+=Nu5/
+-----END PGP SIGNATURE-----

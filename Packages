@@ -1,0 +1,18 @@
+Package: codex
+Architecture: aarch64
+Version: 0.160.0-2
+Maintainer: codex-termux community
+Installed-Size: 241028
+Depends: ripgrep
+Filename: pool/codex_0.160.0-2_aarch64.deb
+Size: 61861760
+MD5sum: 7ecbe6d125d0dfa25dfc4247a2811819
+SHA1: 6139374e89b0b9ab9a18a1a851191783fc0c260b
+SHA256: 1f7817959cc395b89e52ca9174dc4c07fad72e1b5e84ca51e9f439e95cf47002
+SHA512: 97aa7b4f832298c505c3062ba37fb2eaa7b6d2e9c12962bda0619d7881838f7e5c3258e045b88e2b246ff491f619d70dd0e281df12e1499b4815a2eff03a8b89
+Homepage: https://github.com/openai/codex
+Description: OpenAI Codex CLI, built natively for Termux
+ Lightweight coding agent that runs in your terminal. Native Android build
+ with Termux fixes: DNS, TLS, file locking, app-server socket directory,
+ and approval-by-default since Android has no command sandbox.
+
